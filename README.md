@@ -86,12 +86,12 @@ git clone https://github.com/mariekrulovva/printf.git
 After cloning go to the printf folder
 
 ```
-$ cd printf
+cd printf
 ```
 You can compile it with your your C source code
 
 ```
-$ gcc *.c your_C_source_code -o output
+gcc *.c your_C_source_code -o output
 ```
 But the simplest solution is to make it portable, in other words to create a static library:
 ```
