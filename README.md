@@ -15,7 +15,6 @@ Table of contents
    * [Authorized functions and macros](#authorized-functions-and-macros)
    * [Compilation](#compilation)
    * [Format Specifiers](#format-specifiers)
-   * [Tasks](#tasks)
    * [Installation](#installation)
    * [Examples](#examples)
    * [Authors](#authors)
