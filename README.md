@@ -80,7 +80,7 @@ Function name | Description | Format Specifier
 In order to use this custom `_printf` function you need only `<unistd.h>` library
 First, clone this repository to your local machine:
 ```
-$ git clone https://github.com/mariekrulovva/printf.git
+git clone https://github.com/mariekrulovva/printf.git
 ```
 
 After cloning go to the printf folder
